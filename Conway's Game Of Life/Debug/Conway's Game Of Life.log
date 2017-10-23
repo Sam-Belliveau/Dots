@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Conway's Game Of Life.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Main.cpp
+  Conway's Game Of Life.vcxproj -> D:\C++\SFML\Conway's Game Of Life\Debug\Particals.exe
+  Conway's Game Of Life.vcxproj -> D:\C++\SFML\Conway's Game Of Life\Debug\Particals.pdb (Partial PDB)

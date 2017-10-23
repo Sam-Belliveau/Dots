@@ -1,0 +1,4 @@
+﻿  Main.cpp
+d:\c++\sfml\conway's game of life\conway's game of life\main.cpp(23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Conway's Game Of Life.vcxproj -> D:\C++\SFML\Conway's Game Of Life\Debug (SFML)\Particals.exe
+  Conway's Game Of Life.vcxproj -> D:\C++\SFML\Conway's Game Of Life\Debug (SFML)\Particals.pdb (Partial PDB)
